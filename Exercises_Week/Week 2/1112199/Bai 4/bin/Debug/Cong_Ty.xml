@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CongTy>
+  <NhanVien>
+    <HoTen />
+  </NhanVien>
+  <NhanVien>
+    <HoTen>123123</HoTen>
+  </NhanVien>
+  <NhanVien>
+    <HoTen>123123</HoTen>
+  </NhanVien>
+</CongTy>

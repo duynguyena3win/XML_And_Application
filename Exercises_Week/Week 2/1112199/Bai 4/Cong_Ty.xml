@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CongTy>
+  <NhanVien>
+    <HoTen>Nguyễn Duy Nguyên</HoTen>
+    <CMND>215205992</CMND>
+    <GioiTinh>Nam</GioiTinh>
+    <NgSinh>15/07/1993</NgSinh>
+    <Luong>12.000.000</Luong>
+    <DiaChi>Bình Định</DiaChi>
+    <DonVi>Phòng Đào Tạo</DonVi>
+    <NgBatDauLam>02/10/2013</NgBatDauLam>
+    <NgPhuThuoc>3</NgPhuThuoc>
+  </NhanVien>
+  <NhanVien>
+    <HoTen>Lê Hoàng Dũng</HoTen>
+    <CMND>325534542</CMND>
+    <GioiTinh>Nam</GioiTinh>
+    <NgSinh>10/10/1993</NgSinh>
+    <Luong>15.000.000</Luong>
+    <DiaChi>Long An</DiaChi>
+    <DonVi>Phòng Quản Lý Dự Án</DonVi>
+    <NgBatDauLam>2/10/2013</NgBatDauLam>
+    <NgPhuThuoc>5</NgPhuThuoc>
+  </NhanVien>
+</CongTy>

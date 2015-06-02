@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CAY>
+  <PHANSO tu="1" mau="3">
+    <PHANSO tu="2" mau="3">
+      <PHANSO tu="7" mau="9"/>
+      <PHANSO tu="9" mau="7"> 
+        <PHANSO tu="13" mau="2"/>
+      </PHANSO>
+    </PHANSO>
+    <PHANSO tu="17" mau="9"/>
+    <PHANSO tu="17" mau="9">
+        <PHANSO tu="3" mau="4"/>
+      <PHANSO tu="2" mau="1"/> 
+    </PHANSO>
+  </PHANSO>
+</CAY>

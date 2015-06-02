@@ -1,0 +1,9 @@
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\bin\Debug\Tu Ren Luyen Trac Nghiem.exe.config
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\bin\Debug\Tu Ren Luyen Trac Nghiem.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\bin\Debug\Tu Ren Luyen Trac Nghiem.pdb
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu_Ren_Luyen_Trac_Nghiem.DangNhap.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu_Ren_Luyen_Trac_Nghiem.Form1.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu_Ren_Luyen_Trac_Nghiem.Properties.Resources.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu_ren_luyen_trac_nghiem.csproj.GenerateResource.Cache
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu Ren Luyen Trac Nghiem.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Tu Ren Luyen Trac Nghiem\obj\Debug\Tu Ren Luyen Trac Nghiem.pdb

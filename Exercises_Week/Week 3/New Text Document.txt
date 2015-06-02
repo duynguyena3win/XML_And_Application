@@ -1,0 +1,32 @@
+﻿Phần đầu Giới thiệu:
+- Giới thiệu sản phẩm:
+- Mục đích:
+- Định nghĩa là thuật ngữ.
+Phần 2: Quản lý yêu cầu:
+- Giới thiệu công cụ dùng để thực hiện phân tích yêu cầu.
+- .
+
+Yêu cầu giao diện:
+- Giao diện: trình bày như thế nào?
+- Hình ảnh: hình ảnh đơn giản hay không?
+- Bố cục như thế nào?
+- Menu trên giao diên trình bài như thế nào?
+- Người dùng có sử dụng chuột tất cả các điểm trên màn hình hay không?
+
+Yêu cầu chức năng
+Yêu cầu người dùng hướng tới:
+
+- Yêu cầu về tính bảo mật của game - Trò chơi sẽ cho phép người chơi đăng nhập vào game, các thông tin cá nhân phải được giữ kín (bí mật thông tin quan trọng) khi người dùng tạo tài khoản.
+- Yêu cầu về độ khó trong game - Nhiều người dùng (qua cuộc khảo sát) mong muốn sẽ được chơi game theo các độ khó khác nhau, dành cho người mới chơi và chơi lâu dài. Người mới chơi sẽ gặp những yêu cầu trong game đơn giản hơn so với người chơi lâu.
+- Yêu cầu về khả năng kết bạn cao (tính công đồng) - Người chơi tìm và kết bạn với nhau, có thể trò chuyện với nhau thông qua Dùng khung chat(không hạn chế số lượng bạn bè). Có chức năng tạo hội/nhóm trong game (trong thế giới ảo) vời khả năng kết nạp thành viên.
+- Yêu cầu về các sự kiện, hoạt động - Người dùng sẽ không chỉ chơi game đơn thuần mà sẽ được thưởng thêm vào những khoảng thời gian nào đó (ngày lễ: trung thu, valentine, sinh nhật, ...) hay là vượt qua những mốc mà game quy định, thưởng top cho những người chơi xếp hạng.
+- Yêu cầu về hỗ trợ trong và ngoài game - Trong game đó là cách chơi game, người dần cần được hướng dẫn về cách sữ dụng game, các phím khi chơi,... ngoài game là sự hỗ trỡ nếu không thể cài đặt, hoặc là gặp lỗi không thể chạy game. Hỗ trợ tư vấn khi chơi game.
+- Yêu cầu về thời gian khi chơi game, quy định luật pháp - Game sẽ theo quy định pháp luật của nước phát hành, trong việc đặt tên cho tài khoản game, các hoạt động, sự kiện trong game, thời gian quy định cho việc chơi game một ngày, . . .
+- Yêu cầu về tính rộng rãi cũng như đa phương tiện - Người dùng không chỉ chơi game trên máy tính mà còn có thể chơi trên các thiết bị điện tử thông minh (Smartphone, Ipad, Ipod, Smart TV chẳng hạn) hoặc là trên nhiều nền tảng khác nhau (Window XP/7/8, Linux, Mac OS, Android, Window Phone, IOS, . . .) để thuận tiện cho đa số người dùng và dể dàng trong việc tận hưởng.
+
+- Yêu cầu về cách trình bày trên giao diện - Cần được trình bày rõ ràng, phù hợp (nâng cao có thể cho người dùng có khả năng tự sắp xếp màn hình chơi game của mình theo sỡ thích của họ). Tập trung vào những yếu tố chính (phần chơi game sẽ luôn được nổi bật hơn là những hình ảnh trang trí hay hình nền, hoa văn, . . .).
+- Yêu cầu về hình ảnh của game - Vì là một game âm nhạc chơi theo lối chơi là đoán tên bài hát, ca sĩ thể hiện, nhạc sĩ sáng tác cho nên phần hình ảnh sẽ đơn giản, nhưng những phiên bản tiếp theo để thu hút người chơi, hình ảnh sẽ nâng cấp trong việc sử dụng các ảnh động làm game có giao diện đẹp và hấp dẫn hơn. 
+- Yêu cầu về bố cục trong Giao diện game - Màn hình sẽ chia ra làm nhiều phần hiển thị nhỏ: Nơi diễn ra các hoạt động của game, nơi dành cho khu vực tán gẫu, các thanh tiện ích, công cụ trong game (Kết bạn, Đuổi/ Mời người chơi, Bắt đầu, Thoát,...) sẽ được bố trí hợp lý phiên bản nâng cao có thể cho người dùng thay đổi tùy ý nhưng đảm báo một vài quy định!
+- Yêu cầu về menu game - Cách trình bày menu (nằm dọc hoặc ngang) dể dàng cho người dùng thao tác mà không bị vướng, khó khăn khi chọn các chức năng game, Menu sẽ trình bày hợp lý và không dồn nhiều lựa chọn chỉ vào một mục (tab).
+- Yêu cầu về số giao diện khi chuyễn giữa các mục trong game: Game sẽ không đơn thuần chỉ một giao diện duy nhất mà sẽ là tập hợp của nhiều giao diện (Theme) khác nhau khi người dùng vào khu vực tán gấu, vào khu vực phòng đợi, vào game, hay và vào khu mua sắm sẽ có những giao diện nền khác cùng với cách bố trí hợp lý đẹp mắt.
+- 

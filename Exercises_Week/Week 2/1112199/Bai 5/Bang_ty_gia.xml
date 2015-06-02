@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TyGia>
+  <USD mtm="21080" mck="21080" ban="21140"/>
+  <EUR mtm="28240.85" mck="28325.83" ban="28722.16"/>
+  <CAD mtm="20092.40" mck="20274.87" ban="20558.55"/>
+  <THB mtm="662.50" mck="662.50" ban="690.84"/>
+  <JPY mtm="211.69" mck="213.83" ban="216.83"/>
+  <GBP mtm="33715.33" mck="33953.00" ban="34359.28"/>
+</TyGia>

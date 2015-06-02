@@ -1,0 +1,12 @@
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\bin\Debug\Bai 3.exe.config
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\bin\Debug\Bai 3.exe
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\bin\Debug\Bai 3.pdb
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai 3.csprojResolveAssemblyReference.cache
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai_3.Properties.Resources.resources
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai 3.csproj.GenerateResource.Cache
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai 3.exe
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai 3.pdb
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 3\obj\Debug\Bai_3.Form1.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 2\1112199\Bai 3\bin\Debug\Bai 3.exe.config
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 2\1112199\Bai 3\obj\Debug\Bai 3.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 2\1112199\Bai 3\obj\Debug\Bai 3.pdb

@@ -1,0 +1,8 @@
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\bin\Debug\Bien_soan_cau_hoi.exe.config
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\bin\Debug\Bien_soan_cau_hoi.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\bin\Debug\Bien_soan_cau_hoi.pdb
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\obj\Debug\Bien_soan_cau_hoi.Form1.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\obj\Debug\Bien_soan_cau_hoi.Properties.Resources.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\obj\Debug\Bien_soan_cau_hoi.csproj.GenerateResource.Cache
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\obj\Debug\Bien_soan_cau_hoi.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_CaNhan_1112199\Bien_soan_cau_hoi\obj\Debug\Bien_soan_cau_hoi.pdb

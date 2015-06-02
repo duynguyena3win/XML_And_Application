@@ -1,0 +1,9 @@
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\bin\Debug\Do_Thi.exe.config
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\bin\Debug\Do_Thi.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\bin\Debug\Do_Thi.pdb
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.Form1.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.Properties.Resources.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.csproj.GenerateResource.Cache
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.pdb
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 4\Lop1_BT04_Nhom_1112199_1112067_1112015\Do_Thi\obj\Debug\Do_Thi.csprojResolveAssemblyReference.cache

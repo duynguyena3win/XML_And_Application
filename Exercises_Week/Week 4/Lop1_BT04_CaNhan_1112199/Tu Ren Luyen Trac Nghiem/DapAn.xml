@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<DANH_SACH_DE>
+    <DE ma_de ="123">
+      <CAU dap_an ="d"/>
+      <CAU dap_an ="c"/>
+      <CAU dap_an ="a"/>
+      <CAU dap_an ="b"/>
+      <CAU dap_an ="d"/>
+    </DE>
+
+    <DE ma_de ="224">
+      <CAU dap_an ="d"/>
+      <CAU dap_an ="c"/>
+      <CAU dap_an ="b"/>
+      <CAU dap_an ="a"/>
+      <CAU dap_an ="b"/>
+    </DE>
+</DANH_SACH_DE>

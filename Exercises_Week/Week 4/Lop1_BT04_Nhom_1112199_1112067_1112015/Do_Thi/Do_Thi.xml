@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DO_THI ten="GROUND">
+  <DINH ten="A"/>
+  <DINH ten="B"/>
+  <DINH ten="C"/>
+  <DINH ten="D"/>
+  
+  <CANH ten="AB">
+    <DINH ten="A"/>
+    <DINH ten="B"/> 
+  </CANH>
+
+  <CANH ten="AC">
+    <DINH ten="A"/>
+    <DINH ten="C"/>
+  </CANH>
+
+  <CANH ten="CD">
+    <DINH ten="D"/>
+    <DINH ten="C"/>
+  </CANH>
+</DO_THI>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MaTran dong="4">
+  <Cot>
+    <SoNguyen giatri="1" />
+    <SoNguyen giatri="3" />
+    <SoNguyen giatri="2" />
+    <SoNguyen giatri="7" />
+  </Cot>
+  <Cot>
+    <SoNguyen giatri="4" />
+    <SoNguyen giatri="5" />
+    <SoNguyen giatri="1" />
+    <SoNguyen giatri="8" />
+  </Cot>
+  <Cot>
+    <SoNguyen giatri="3" />
+    <SoNguyen giatri="7" />
+    <SoNguyen giatri="6" />
+    <SoNguyen giatri="9" />
+  </Cot>
+</MaTran>

@@ -1,0 +1,9 @@
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\bin\Debug\Bai 4.exe.config
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\bin\Debug\Bai 4.exe
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\bin\Debug\Bai 4.pdb
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai 4.csprojResolveAssemblyReference.cache
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai_4.Form1.resources
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai_4.Properties.Resources.resources
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai 4.csproj.GenerateResource.Cache
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai 4.exe
+D:\CNTT\CNTT 2011 - HK5\XML and Application\Week 3\1112199\Bai 4\obj\Debug\Bai 4.pdb

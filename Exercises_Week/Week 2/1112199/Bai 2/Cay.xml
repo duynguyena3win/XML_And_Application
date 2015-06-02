@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TREE>
+  <NODE GT="5">
+    <NODE GT="4">
+      <NODE GT="5"/>
+    </NODE>
+
+    <NODE GT="-1">
+      <NODE GT="12"/>
+      <NODE GT="-1">
+        <NODE GT="3"/>
+      </NODE>
+    </NODE>
+  </NODE>
+</TREE>

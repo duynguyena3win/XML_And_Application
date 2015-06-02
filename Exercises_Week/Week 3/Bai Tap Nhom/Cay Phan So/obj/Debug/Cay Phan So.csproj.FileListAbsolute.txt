@@ -1,0 +1,9 @@
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay Phan So.csprojResolveAssemblyReference.cache
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay_Phan_So.Form1.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay_Phan_So.Properties.Resources.resources
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay Phan So.csproj.GenerateResource.Cache
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\bin\Debug\Cay Phan So.exe.config
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\bin\Debug\Cay Phan So.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\bin\Debug\Cay Phan So.pdb
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay Phan So.exe
+F:\Cong Nghe Thong Tin\XML And Application - Nguyen Tien Huy\Exercises Week\Week 3\Bai Tap Nhom\Cay Phan So\obj\Debug\Cay Phan So.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GIAO_VIEN hoten ="Nguyễn Duy Nguyên" cmnd ="215205992" ngsinh="15/07/1993" diachi="Bình Định">
+  <MON_HOC ten="Tin học"/>
+  <MON_HOC ten="Anh văn"/>
+  <THOI_GIAN_RANH buoi="Sáng" thu="2"/>
+  <THOI_GIAN_RANH buoi="Sáng" thu="6"/>
+  <THOI_GIAN_RANH buoi="Chiều" thu="5"/>
+</GIAO_VIEN>

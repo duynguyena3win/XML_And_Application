@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NHAN_VIEN hoten="Nguyễn Thị Bé Nhỏ" gioi_tinh ="Nữ" cmnd="111222333" luong="5000000" ngay_batdau ="20/09/2012" nguoi_phuthuoc="3">
+  <NGOAI_NGU ten="Tiếng Anh"/>
+  <NGOAI_NGU ten="Tiếng Pháp"/>
+  <NGOAI_NGU ten="Tiếng Thái"/>
+</NHAN_VIEN>

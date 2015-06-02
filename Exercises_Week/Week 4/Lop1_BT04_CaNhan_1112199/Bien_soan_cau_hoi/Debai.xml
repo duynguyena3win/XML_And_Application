@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DANH_SACH_DE>
+  <DE ma_de="123">
+    <CAU cau_hoi="Lục giác có mấy cạnh?">
+      <DAP_AN a="3" b="4" c="5" d="6" />
+    </CAU>
+    <CAU cau_hoi="Sao Paulo là thành phố thuộc nước nào?">
+      <DAP_AN a="Anh" b="Pháp" c="Brazil" d="Cu Ba" />
+    </CAU>
+    <CAU cau_hoi="Hoàng Sa trên Biển Đông (Đông Nam Á) thuộc chủ quyền của nước nào?">
+      <DAP_AN a="Việt Nam" b="Trung Quốc" c="Đài Loan" d="Bru-nây" />
+    </CAU>
+    <CAU cau_hoi="Dân tộc chiếm tối đa ở Trung Quốc là:">
+      <DAP_AN a="Người Mông Cổ" b="Người Hán" c="Người Mãn" d="Người Tây Tạng" />
+    </CAU>
+    <CAU cau_hoi="Hợp chủng quốc Hoa Kỳ có bao nhiêu Tiểu Bang ">
+      <DAP_AN a="13" b="23" c="35" d="50" />
+    </CAU>
+    <CAU cau_hoi="Chiến thắng Điện Biên Phủ năm 1954 đã đánh bại quân xâm lược nào?">
+      <DAP_AN a="Đế quốc Mỹ" b="Quân Tưởng Giới Thạch" c="Thực dân Pháp" d="Thực dân Anh" />
+    </CAU>
+    <CAU cau_hoi="Tên trước năm 1975 của Thành phố Hồ Chí Minh là:">
+      <DAP_AN a="Hòn ngọc viễn đông" b="Gia Định" c="Hồ Chí Minh" d="Sài Gòn" />
+    </CAU>
+    <CAU cau_hoi="Người chỉ huy các chiến dịch gồm: Chiến Dịch Biên Giới (1950), Chiến dịch Điện Biên Phủ (1954), Chiến dịch Hồ Chí Minh (1975) dành thắng lợi là ai?">
+      <DAP_AN a="Tôn Đức Thắng" b="Võ Nguyên Giáp" c="Hồ Chí Minh" d="Hoàng Cầm" />
+    </CAU>
+  </DE>
+  <DE ma_de="224">
+    <CAU cau_hoi="Nước Việt Nam nằm ở khu vực nào?">
+      <DAP_AN a="Bắc Mĩ" b="Trung Á" c="Đông Âu" d="Đông Nam Á" />
+    </CAU>
+    <CAU cau_hoi="Chiến dịch Giải phóng hoàn toàn miền Nam thống nhất đất nước 30-04-1975 mang tên:">
+      <DAP_AN a="Tôn Đức Thắng" b="Plâyku - Buôn Mê Thuộc" c="Hồ Chí Minh" d="Đường 9 Nam Lào" />
+    </CAU>
+    <CAU cau_hoi="Vị vua cuối cùng của triều đại phong kiến Việt Nam có tên:">
+      <DAP_AN a="Phổ Nghi" b="Hàm Nghi" c="Vĩnh Nghi" d="Thiên Nghi" />
+    </CAU>
+    <CAU cau_hoi="Chiến dịch Biên Giới giống Quân xâm lược Trung Quốc ở các tỉnh phía Bắc diễn ra vào năm:">
+      <DAP_AN a="1979" b="1982" c="1988" d="1992" />
+    </CAU>
+    <CAU cau_hoi="Lăng của Cha chủ tịch Hồ Chí Minh sinh ra ở tỉnh nào sau đây:">
+      <DAP_AN a="Nghệ An" b="Đồng Tháp" c="Thừa Thiên Huế" d="Cà Mau" />
+    </CAU>
+  </DE>
+</DANH_SACH_DE>

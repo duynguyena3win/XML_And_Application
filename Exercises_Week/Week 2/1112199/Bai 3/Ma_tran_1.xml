@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MaTran dong = "4" cot = "3">
+  <SoNguyen dong="1" cot="1" giatri="1"/>
+  <SoNguyen dong="1" cot="2" giatri="4"/>
+  <SoNguyen dong="1" cot="3" giatri="3"/>
+  <SoNguyen dong="2" cot="1" giatri="3"/>
+  <SoNguyen dong="2" cot="2" giatri="5"/>
+  <SoNguyen dong="2" cot="3" giatri="7"/>
+  <SoNguyen dong="3" cot="1" giatri="2"/>
+  <SoNguyen dong="3" cot="2" giatri="1"/>
+  <SoNguyen dong="3" cot="3" giatri="6"/>
+  <SoNguyen dong="4" cot="1" giatri="7"/>
+  <SoNguyen dong="4" cot="2" giatri="8"/>
+  <SoNguyen dong="4" cot="3" giatri="9"/>
+</MaTran>

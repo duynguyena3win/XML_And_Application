@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONG_TY ten ="TNHH WAO">
+  <LY_DO ten ="Cảm, Đau ốm"/>
+  <LY_DO ten ="Công tác đột xuất"/>
+  <LY_DO ten ="Tham gia hội thảo, chuyên đề"/>
+  
+  <DON_XIN_NGHI ngay_bat_dau="10/16/2013 00:00:00 AM" so_ngay="5">
+    <NHAN_VIEN hoten="Nguyễn Duy Nguyên" cmnd="215205992">
+      <DON_VI ten="Kế hoạch đầu tư"/>
+    </NHAN_VIEN>
+    <LY_DO ten ="Cảm, Đau ốm"/>
+  </DON_XIN_NGHI>
+
+  <DON_XIN_NGHI ngay_bat_dau="10/14/2013 00:00:00 AM" so_ngay="2">
+    <NHAN_VIEN hoten="Nguyễn Hoàng Đạt" cmnd="111111111">
+      <DON_VI ten="Hành chính"/>
+    </NHAN_VIEN>
+    <LY_DO ten ="Tham gia hội thảo, chuyên đề"/>
+  </DON_XIN_NGHI>
+
+  <DON_XIN_NGHI ngay_bat_dau="10/10/2013 00:00:00 AM" so_ngay="10">
+    <NHAN_VIEN hoten="Bùi Bảo Bảo" cmnd="222222222">
+      <DON_VI ten="Dự án"/>
+    </NHAN_VIEN>
+    <LY_DO ten ="Công tác đột xuất"/>
+  </DON_XIN_NGHI>
+
+</CONG_TY>

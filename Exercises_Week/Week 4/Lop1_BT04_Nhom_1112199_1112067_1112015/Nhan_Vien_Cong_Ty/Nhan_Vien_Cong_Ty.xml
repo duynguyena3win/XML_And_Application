@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONG_TY ten="TNHH WAO">
+  <DON_VI ten="Hành chính"/>
+  <DON_VI ten="Kế hoạch đầu tư"/>
+  <DON_VI ten="Phát triển công nghệ"/>
+  <DONVI ten="Dự án"/>
+  
+  <NHAN_VIEN hoten ="Nguyễn Duy Nguyên" gioi_tinh ="Nam" ngay_sinh="07/15/1993 00:00:00 AM" cmnd ="215205992" luong="20000000" dia_chi ="Bình Định" ngay_bat_dau="10/10/2013 00:00:00 AM" so_ng_phu_thuoc="3">
+    <DON_VI ten="Phát triển công nghệ"/>
+    <DON_VI ten="Kế hoạch đầu tư"/>
+  </NHAN_VIEN>
+
+  <NHAN_VIEN hoten ="Nguyễn Hoàng Đạt" gioi_tinh ="Nam" ngay_sinh="10/07/1993 00:00:00 AM" cmnd ="111111111" luong="22000000" dia_chi ="Đồng Nai" ngay_bat_dau="05/10/2013 00:00:00 AM" so_ng_phu_thuoc="5">
+    <DON_VI ten="Kế hoạch đầu tư"/>
+    <DON_VI ten="Dự án"/>
+  </NHAN_VIEN>
+
+  <NHAN_VIEN hoten ="Bùi Bảo Bảo" gioi_tinh ="Nam" ngay_sinh="09/19/1993 00:00:00 AM" cmnd ="222222222" luong="21000000" dia_chi ="Long An" ngay_bat_dau="10/08/2013 00:00:00 AM" so_ng_phu_thuoc="4">
+    <DON_VI ten="Hành chính"/>
+    <DON_VI ten="Kế hoạch đầu tư"/>
+  </NHAN_VIEN>
+</CONG_TY>
